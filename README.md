@@ -1,2 +1,17 @@
 # Food-Ordering-System-Admin-Frontend
-This repository contain the admin frontend which is handling customer details and He can add any food items also seen that details on home interface and also the login interface that is handle by admin interface occure that all this frontend In that project I have used Html,css,javascript and bootstrap 
+
+This repository contains the admin frontend of the Food Ordering System.
+
+## Features:
+- Admin login interface
+- Add food items
+- View all customers
+- View placed orders
+- Food item management on the homepage
+
+### Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
